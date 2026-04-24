@@ -1,0 +1,12 @@
+{
+  "name": "crossfire-zone",
+  "version": "1.0.0",
+  "description": "A quick action crossfire zone brawl where character gets to engage in a crossfire bralw to arrive as winners ",
+  "license": "ISC",
+  "author": "victor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
